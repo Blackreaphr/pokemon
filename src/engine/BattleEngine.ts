@@ -6,6 +6,7 @@ import { BattleState } from './BattleState'
 import { BattleCalculator } from './BattleCalculator'
 import type { MoveData } from './Interfaces'
 import type { Pokemon } from './Pokemon'
+import { WEATHERS } from './Weather'
 
 export class BattleEngine {
   state: BattleState
@@ -36,6 +37,7 @@ export class BattleEngine {
       this.executeMove(second.user, second.target, second.move)
     }
 
+    this.applyResidualEffects()
     this.state.turn++
   }
 
@@ -50,10 +52,25 @@ export class BattleEngine {
   }
 
   private executeMove(user: Pokemon, target: Pokemon, move: MoveData): void {
+    let damage = BattleCalculator.calculateDamage(
+      user,
+      target,
+      move,
+      this.state.weather,
+      this.state.terrain
+    )
     let damage = BattleCalculator.calculateDamage(user, target, move)
     if (user.ability?.modifyDamage) {
       damage = user.ability.modifyDamage(user, move, target, damage)
     }
     target.receiveDamage(damage)
+  }
+
+  private applyResidualEffects(): void {
+    for (const mon of [this.state.active1, this.state.active2]) {
+      if (!mon || mon.isFainted()) continue
+      const weatherEffect = WEATHERS[this.state.weather]
+      weatherEffect.onResidual?.(mon)
+    }
   }
 }

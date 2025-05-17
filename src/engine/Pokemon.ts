@@ -5,6 +5,7 @@
 import type { Stats, StatStages } from './Interfaces'
 import type { TypeName } from './Types'
 import type { Ability } from './Abilities'
+import type { StatusName } from './Statuses'
 import { DEFAULT_LEVEL, MAX_STAT_STAGE } from './Constants'
 
 export class Pokemon {
@@ -15,6 +16,8 @@ export class Pokemon {
   ability?: Ability
   currentHP: number
   statStages: StatStages
+
+  status?: StatusName
 
   constructor(
     name: string,
@@ -36,6 +39,8 @@ export class Pokemon {
       specialDefense: 0,
       speed: 0,
     }
+    this.status = undefined
+
   }
 
   /** True if the Pokemon has fainted. */
