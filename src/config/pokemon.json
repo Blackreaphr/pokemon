@@ -35,6 +35,174 @@
       "stats": { "hp": 60, "atk": 65, "def": 60, "spa": 130, "spd": 75, "spe": 110 },
       "abilities": ["Cursed Body"],
       "weight": 40.5
+    },
+    {
+      "name": "Ivysaur",
+      "types": ["Grass", "Poison"],
+      "stats": { "hp": 60, "atk": 62, "def": 63, "spa": 80, "spd": 80, "spe": 60 },
+      "abilities": ["Overgrow"],
+      "weight": 13.0
+    },
+    {
+      "name": "Venusaur",
+      "types": ["Grass", "Poison"],
+      "stats": { "hp": 80, "atk": 82, "def": 83, "spa": 100, "spd": 100, "spe": 80 },
+      "abilities": ["Overgrow"],
+      "weight": 100.0
+    },
+    {
+      "name": "Charmeleon",
+      "types": ["Fire"],
+      "stats": { "hp": 58, "atk": 64, "def": 58, "spa": 80, "spd": 65, "spe": 80 },
+      "abilities": ["Blaze"],
+      "weight": 19.0
+    },
+    {
+      "name": "Charizard",
+      "types": ["Fire", "Flying"],
+      "stats": { "hp": 78, "atk": 84, "def": 78, "spa": 109, "spd": 85, "spe": 100 },
+      "abilities": ["Blaze"],
+      "weight": 90.5
+    },
+    {
+      "name": "Wartortle",
+      "types": ["Water"],
+      "stats": { "hp": 59, "atk": 63, "def": 80, "spa": 65, "spd": 80, "spe": 58 },
+      "abilities": ["Torrent"],
+      "weight": 22.5
+    },
+    {
+      "name": "Blastoise",
+      "types": ["Water"],
+      "stats": { "hp": 79, "atk": 83, "def": 100, "spa": 85, "spd": 105, "spe": 78 },
+      "abilities": ["Torrent"],
+      "weight": 85.5
+    },
+    {
+      "name": "Caterpie",
+      "types": ["Bug"],
+      "stats": { "hp": 45, "atk": 30, "def": 35, "spa": 20, "spd": 20, "spe": 45 },
+      "abilities": ["Shield Dust"],
+      "weight": 2.9
+    },
+    {
+      "name": "Metapod",
+      "types": ["Bug"],
+      "stats": { "hp": 50, "atk": 20, "def": 55, "spa": 25, "spd": 25, "spe": 30 },
+      "abilities": ["Shed Skin"],
+      "weight": 9.9
+    },
+    {
+      "name": "Butterfree",
+      "types": ["Bug", "Flying"],
+      "stats": { "hp": 60, "atk": 45, "def": 50, "spa": 90, "spd": 80, "spe": 70 },
+      "abilities": ["Compound Eyes"],
+      "weight": 32.0
+    },
+    {
+      "name": "Weedle",
+      "types": ["Bug", "Poison"],
+      "stats": { "hp": 40, "atk": 35, "def": 30, "spa": 20, "spd": 20, "spe": 50 },
+      "abilities": ["Shield Dust"],
+      "weight": 3.2
+    },
+    {
+      "name": "Kakuna",
+      "types": ["Bug", "Poison"],
+      "stats": { "hp": 45, "atk": 25, "def": 50, "spa": 25, "spd": 25, "spe": 35 },
+      "abilities": ["Shed Skin"],
+      "weight": 10.0
+    },
+    {
+      "name": "Beedrill",
+      "types": ["Bug", "Poison"],
+      "stats": { "hp": 65, "atk": 90, "def": 40, "spa": 45, "spd": 80, "spe": 75 },
+      "abilities": ["Swarm"],
+      "weight": 29.5
+    },
+    {
+      "name": "Pidgey",
+      "types": ["Normal", "Flying"],
+      "stats": { "hp": 40, "atk": 45, "def": 40, "spa": 35, "spd": 35, "spe": 56 },
+      "abilities": ["Keen Eye"],
+      "weight": 1.8
+    },
+    {
+      "name": "Pidgeotto",
+      "types": ["Normal", "Flying"],
+      "stats": { "hp": 63, "atk": 60, "def": 55, "spa": 50, "spd": 50, "spe": 71 },
+      "abilities": ["Keen Eye"],
+      "weight": 30.0
+    },
+    {
+      "name": "Pidgeot",
+      "types": ["Normal", "Flying"],
+      "stats": { "hp": 83, "atk": 80, "def": 75, "spa": 70, "spd": 70, "spe": 101 },
+      "abilities": ["Keen Eye"],
+      "weight": 39.5
+    },
+    {
+      "name": "Rattata",
+      "types": ["Normal"],
+      "stats": { "hp": 30, "atk": 56, "def": 35, "spa": 25, "spd": 35, "spe": 72 },
+      "abilities": ["Run Away"],
+      "weight": 3.5
+    },
+    {
+      "name": "Raticate",
+      "types": ["Normal"],
+      "stats": { "hp": 55, "atk": 81, "def": 60, "spa": 50, "spd": 70, "spe": 97 },
+      "abilities": ["Run Away"],
+      "weight": 18.5
+    },
+    {
+      "name": "Spearow",
+      "types": ["Normal", "Flying"],
+      "stats": { "hp": 40, "atk": 60, "def": 30, "spa": 31, "spd": 31, "spe": 70 },
+      "abilities": ["Keen Eye"],
+      "weight": 2.0
+    },
+    {
+      "name": "Fearow",
+      "types": ["Normal", "Flying"],
+      "stats": { "hp": 65, "atk": 90, "def": 65, "spa": 61, "spd": 61, "spe": 100 },
+      "abilities": ["Keen Eye"],
+      "weight": 38.0
+    },
+    {
+      "name": "Ekans",
+      "types": ["Poison"],
+      "stats": { "hp": 35, "atk": 60, "def": 44, "spa": 40, "spd": 54, "spe": 55 },
+      "abilities": ["Intimidate"],
+      "weight": 6.9
+    },
+    {
+      "name": "Arbok",
+      "types": ["Poison"],
+      "stats": { "hp": 60, "atk": 95, "def": 69, "spa": 65, "spd": 79, "spe": 80 },
+      "abilities": ["Intimidate"],
+      "weight": 65.0
+    },
+    {
+      "name": "Raichu",
+      "types": ["Electric"],
+      "stats": { "hp": 60, "atk": 90, "def": 55, "spa": 90, "spd": 80, "spe": 110 },
+      "abilities": ["Static", "Lightning Rod"],
+      "weight": 30.0
+    },
+    {
+      "name": "Sandshrew",
+      "types": ["Ground"],
+      "stats": { "hp": 50, "atk": 75, "def": 85, "spa": 20, "spd": 30, "spe": 40 },
+      "abilities": ["Sand Veil"],
+      "weight": 12.0
+    },
+    {
+      "name": "Sandslash",
+      "types": ["Ground"],
+      "stats": { "hp": 75, "atk": 100, "def": 110, "spa": 45, "spd": 55, "spe": 65 },
+      "abilities": ["Sand Veil"],
+      "weight": 29.5
     }
   ]
 }
