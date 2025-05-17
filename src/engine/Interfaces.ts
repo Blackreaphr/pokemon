@@ -18,4 +18,14 @@ export interface MoveData {
   accuracy: number
   pp: number
   priority?: number
+  effect?: (user: any, target: any) => void
+}
+
+/** Representation of temporary stat modifiers. */
+export interface StatStages {
+  attack: number
+  defense: number
+  specialAttack: number
+  specialDefense: number
+  speed: number
 }

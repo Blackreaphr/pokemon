@@ -2,13 +2,18 @@
  * Implementation of move side effects.
  */
 
-export type MoveEffect = (user: any, target: any) => void
+import type { Pokemon } from './Pokemon'
+import { MAX_STAT_STAGE } from './Constants'
+
+export type MoveEffect = (user: Pokemon, target: Pokemon) => void
 
 export const MOVE_EFFECTS: Record<string, MoveEffect> = {
   Drain: (user, target) => {
-    /* TODO */
+    const drain = Math.floor(target.stats.hp / 8)
+    target.receiveDamage(drain)
+    user.heal(drain)
   },
-  BoostAttack: (user, target) => {
-    /* TODO */
+  BoostAttack: (user) => {
+    user.boostStat('attack', 1)
   },
 }
