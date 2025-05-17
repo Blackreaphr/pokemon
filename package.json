@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev:ui": "vite --root src/battle-ui"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +19,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.2.2",
-    "vite": "^5.0.0"
+    "vite": "^5.0.0",
+    "framer-motion": "^10.12.16",
+    "howler": "^2.2.3"
   }
 }
