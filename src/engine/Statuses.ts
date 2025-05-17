@@ -10,15 +10,37 @@ export enum StatusName {
   Freeze = 'freeze',
 }
 
+import type { Pokemon } from './Pokemon'
+
 export interface StatusEffect {
-  onBeforeMove?: () => boolean
-  onAfterTurn?: () => void
+  onBeforeMove?: (pokemon: Pokemon) => boolean
+  onAfterTurn?: (pokemon: Pokemon) => void
 }
 
 export const STATUS_EFFECTS: Record<StatusName, StatusEffect> = {
-  [StatusName.Burn]: {},
-  [StatusName.Poison]: {},
-  [StatusName.Paralysis]: {},
-  [StatusName.Sleep]: {},
-  [StatusName.Freeze]: {},
+  [StatusName.Burn]: {
+    onAfterTurn(pokemon) {
+      pokemon.receiveDamage(Math.floor(pokemon.stats.hp / 8))
+    },
+  },
+  [StatusName.Poison]: {
+    onAfterTurn(pokemon) {
+      pokemon.receiveDamage(Math.floor(pokemon.stats.hp / 8))
+    },
+  },
+  [StatusName.Paralysis]: {
+    onBeforeMove() {
+      return Math.random() < 0.25
+    },
+  },
+  [StatusName.Sleep]: {
+    onBeforeMove() {
+      return true
+    },
+  },
+  [StatusName.Freeze]: {
+    onBeforeMove() {
+      return true
+    },
+  },
 }
