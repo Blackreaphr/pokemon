@@ -5,4 +5,5 @@
 export const IMMUNITIES: Record<string, string[]> = {
   Ground: ['levitate'],
   Psychic: ['dark'],
+  Ghost: ['normal', 'fighting'],
 }

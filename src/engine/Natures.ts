@@ -11,5 +11,7 @@ export interface NatureEffect {
 export const NATURES: Record<string, NatureEffect> = {
   Hardy: { increase: 'attack', decrease: 'attack' },
   Lonely: { increase: 'attack', decrease: 'defense' },
-  // ...others trimmed for brevity
+  Brave: { increase: 'attack', decrease: 'speed' },
+  Bold: { increase: 'defense', decrease: 'attack' },
+  Timid: { increase: 'speed', decrease: 'attack' },
 }
