@@ -10,6 +10,8 @@
     "dev:ui": "vite --root src/battle-ui",
     "dev:analytics": "vite --root src/analytics/reporting",
     "test": "vitest"
+=======
+    "dev:analytics": "vite --root src/analytics/reporting"
   },
   "keywords": [],
   "author": "",
