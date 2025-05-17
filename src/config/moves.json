@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "moves": [
+    {
+      "name": "Tackle",
+      "type": "Normal",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "category": "Physical",
+      "priority": 0,
+      "flags": { "contact": true, "protect": true, "sound": false, "punch": false }
+    },
+    {
+      "name": "Ember",
+      "type": "Fire",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25,
+      "category": "Special",
+      "priority": 0,
+      "flags": { "contact": false, "protect": true, "sound": false, "punch": false }
+    },
+    {
+      "name": "Water Gun",
+      "type": "Water",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 25,
+      "category": "Special",
+      "priority": 0,
+      "flags": { "contact": false, "protect": true, "sound": false, "punch": false }
+    },
+    {
+      "name": "Thunderbolt",
+      "type": "Electric",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 15,
+      "category": "Special",
+      "priority": 0,
+      "flags": { "contact": false, "protect": true, "sound": false, "punch": false }
+    },
+    {
+      "name": "Psychic",
+      "type": "Psychic",
+      "power": 90,
+      "accuracy": 100,
+      "pp": 10,
+      "category": "Special",
+      "priority": 0,
+      "flags": { "contact": false, "protect": true, "sound": false, "punch": false }
+    }
+  ]
+}
