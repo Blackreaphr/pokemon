@@ -12,47 +12,44 @@ import { CRIT_CHANCE, CRIT_MOD, STAB_MOD } from './Constants'
 import { randInt } from './Utils'
 
 export class BattleCalculator {
-  /** Calculate damage from an attacker using a move on a defender. */
-
+  /**
+   * Calculate damage from an attacker using a move on a defender.
+   * @param attacker The attacking Pokemon
+   * @param defender The defending Pokemon
+   * @param move The move being used
+   * @param weather Current weather condition
+   * @param terrain Current terrain condition
+   * @param rng Random number generator for deterministic results
+   */
   static calculateDamage(
     attacker: Pokemon,
     defender: Pokemon,
     move: MoveData,
     weather: WeatherName,
-    terrain: TerrainName
+    terrain: TerrainName,
+    rng: () => number = Math.random
   ): number {
-=======
-  static calculateDamage(attacker: Pokemon, defender: Pokemon, move: MoveData): number {
-
     const levelFactor = (2 * attacker.level) / 5 + 2
     const attack = attacker.stats.attack
     const defense = defender.stats.defense
     let base = Math.floor(((levelFactor * move.power * attack) / defense) / 50) + 2
 
-    // Same-type attack bonus
     if (attacker.types.includes(move.type as TypeName)) {
       base = Math.floor(base * STAB_MOD)
     }
 
-    const typeMult = BattleCalculator.getTypeMultiplier(
-      move.type as TypeName,
-      defender.types
-    )
+    const typeMult = this.getTypeMultiplier(move.type as TypeName, defender.types)
     base = Math.floor(base * typeMult)
 
-
     base = Math.floor(
-      base * BattleCalculator.getWeatherTerrainMod(move.type as TypeName, weather, terrain)
+      base * this.getWeatherTerrainMod(move.type as TypeName, weather, terrain)
     )
 
-=======
-
-    // Critical hits
-    if (Math.random() < CRIT_CHANCE) {
+    if (rng() < CRIT_CHANCE) {
       base = Math.floor(base * CRIT_MOD)
     }
 
-    const random = randInt(85, 100) / 100
+    const random = randInt(85, 100, rng) / 100
     return Math.max(1, Math.floor(base * random))
   }
 
@@ -64,7 +61,6 @@ export class BattleCalculator {
       }
       return mult
     }, 1)
-
   }
 
   private static getWeatherTerrainMod(
@@ -87,6 +83,5 @@ export class BattleCalculator {
     if (terrain === TerrainName.Misty && type === 'Dragon') mod *= 0.5
 
     return mod
-=======
   }
 }
