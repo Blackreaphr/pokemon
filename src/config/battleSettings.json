@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "default": {
+    "levelCap": 50,
+    "clauseSet": ["Sleep", "Species"],
+    "critMultiplier": 1.5,
+    "gen": 9,
+    "rngSeed": 42
+  }
+}
