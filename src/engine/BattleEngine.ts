@@ -7,6 +7,8 @@ import { BattleCalculator } from './BattleCalculator'
 import type { MoveData } from './Interfaces'
 import type { Pokemon } from './Pokemon'
 import { WEATHERS } from './Weather'
+import { MOVES } from './Moves'
+import { PokemonFactory } from './PokemonFactory'
 
 export class BattleEngine {
   state: BattleState
@@ -59,7 +61,6 @@ export class BattleEngine {
       this.state.weather,
       this.state.terrain
     )
-    let damage = BattleCalculator.calculateDamage(user, target, move)
     if (user.ability?.modifyDamage) {
       damage = user.ability.modifyDamage(user, move, target, damage)
     }
@@ -73,4 +74,28 @@ export class BattleEngine {
       weatherEffect.onResidual?.(mon)
     }
   }
+}
+
+// Simple demo when executed directly with ts-node
+if (process.argv[1] && process.argv[1].endsWith('BattleEngine.ts')) {
+  const pikachu = PokemonFactory.create(
+    'Pikachu',
+    { hp: 35, attack: 55, defense: 40, specialAttack: 50, specialDefense: 50, speed: 90 },
+    ['Electric']
+  )
+  const bulbasaur = PokemonFactory.create(
+    'Bulbasaur',
+    { hp: 45, attack: 49, defense: 49, specialAttack: 65, specialDefense: 65, speed: 45 },
+    ['Grass']
+  )
+  const engine = new BattleEngine(new BattleState([pikachu], [bulbasaur]))
+  console.log('Start demo battle!')
+  while (engine.state.active1 && engine.state.active2) {
+    engine.takeTurn(MOVES.Tackle, MOVES.Tackle)
+    console.log(
+      `Turn ${engine.state.turn}: Pikachu ${pikachu.currentHP} HP vs Bulbasaur ${bulbasaur.currentHP} HP`
+    )
+    if (pikachu.isFainted() || bulbasaur.isFainted()) engine.endBattle()
+  }
+  console.log('Battle finished.')
 }
