@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "presets": {
+    "easy": {
+      "predictionDepth": 1,
+      "riskTolerance": 0.2,
+      "autoSwitchPercent": 10,
+      "tiltFactor": 0.1
+    },
+    "normal": {
+      "predictionDepth": 3,
+      "riskTolerance": 0.5,
+      "autoSwitchPercent": 25,
+      "tiltFactor": 0.3
+    },
+    "hardcore": {
+      "predictionDepth": 5,
+      "riskTolerance": 0.8,
+      "autoSwitchPercent": 40,
+      "tiltFactor": 0.5
+    }
+  }
+}

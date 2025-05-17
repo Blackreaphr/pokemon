@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "presets": {
+    "SmogonOU": {
+      "bannedPokemon": ["Gengar"],
+      "itemRestrictions": []
+    },
+    "LittleCup": {
+      "levelCap": 5,
+      "bannedPokemon": ["Pikachu"],
+      "itemRestrictions": []
+    },
+    "RandomBattle": {
+      "randomTeams": true
+    }
+  }
+}

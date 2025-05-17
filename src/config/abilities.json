@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "abilities": [
+    { "name": "Overgrow", "effect": "Boosts Grass moves in a pinch." },
+    { "name": "Blaze", "effect": "Boosts Fire moves in a pinch." },
+    { "name": "Torrent", "effect": "Boosts Water moves in a pinch." },
+    { "name": "Static", "effect": "May paralyze on contact." },
+    { "name": "Levitate", "effect": "Immune to Ground-type moves." }
+  ]
+}

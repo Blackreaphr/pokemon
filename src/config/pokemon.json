@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "types": ["Grass", "Poison"],
+      "stats": { "hp": 45, "atk": 49, "def": 49, "spa": 65, "spd": 65, "spe": 45 },
+      "abilities": ["Overgrow"],
+      "weight": 6.9
+    },
+    {
+      "name": "Charmander",
+      "types": ["Fire"],
+      "stats": { "hp": 39, "atk": 52, "def": 43, "spa": 60, "spd": 50, "spe": 65 },
+      "abilities": ["Blaze"],
+      "weight": 8.5
+    },
+    {
+      "name": "Squirtle",
+      "types": ["Water"],
+      "stats": { "hp": 44, "atk": 48, "def": 65, "spa": 50, "spd": 64, "spe": 43 },
+      "abilities": ["Torrent"],
+      "weight": 9.0
+    },
+    {
+      "name": "Pikachu",
+      "types": ["Electric"],
+      "stats": { "hp": 35, "atk": 55, "def": 40, "spa": 50, "spd": 50, "spe": 90 },
+      "abilities": ["Static", "Lightning Rod"],
+      "weight": 6.0
+    },
+    {
+      "name": "Gengar",
+      "types": ["Ghost", "Poison"],
+      "stats": { "hp": 60, "atk": 65, "def": 60, "spa": 130, "spd": 75, "spe": 110 },
+      "abilities": ["Cursed Body"],
+      "weight": 40.5
+    }
+  ]
+}
