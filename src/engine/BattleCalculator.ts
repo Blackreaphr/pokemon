@@ -13,6 +13,7 @@ import { randInt } from './Utils'
 
 export class BattleCalculator {
   /** Calculate damage from an attacker using a move on a defender. */
+
   static calculateDamage(
     attacker: Pokemon,
     defender: Pokemon,
@@ -20,6 +21,9 @@ export class BattleCalculator {
     weather: WeatherName,
     terrain: TerrainName
   ): number {
+=======
+  static calculateDamage(attacker: Pokemon, defender: Pokemon, move: MoveData): number {
+
     const levelFactor = (2 * attacker.level) / 5 + 2
     const attack = attacker.stats.attack
     const defense = defender.stats.defense
@@ -36,9 +40,12 @@ export class BattleCalculator {
     )
     base = Math.floor(base * typeMult)
 
+
     base = Math.floor(
       base * BattleCalculator.getWeatherTerrainMod(move.type as TypeName, weather, terrain)
     )
+
+=======
 
     // Critical hits
     if (Math.random() < CRIT_CHANCE) {
@@ -57,6 +64,7 @@ export class BattleCalculator {
       }
       return mult
     }, 1)
+
   }
 
   private static getWeatherTerrainMod(
@@ -79,5 +87,6 @@ export class BattleCalculator {
     if (terrain === TerrainName.Misty && type === 'Dragon') mod *= 0.5
 
     return mod
+=======
   }
 }

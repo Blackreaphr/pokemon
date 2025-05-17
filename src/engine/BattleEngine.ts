@@ -59,6 +59,7 @@ export class BattleEngine {
       this.state.weather,
       this.state.terrain
     )
+    let damage = BattleCalculator.calculateDamage(user, target, move)
     if (user.ability?.modifyDamage) {
       damage = user.ability.modifyDamage(user, move, target, damage)
     }

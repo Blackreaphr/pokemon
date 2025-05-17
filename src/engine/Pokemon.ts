@@ -16,6 +16,7 @@ export class Pokemon {
   ability?: Ability
   currentHP: number
   statStages: StatStages
+
   status?: StatusName
 
   constructor(
@@ -39,6 +40,7 @@ export class Pokemon {
       speed: 0,
     }
     this.status = undefined
+
   }
 
   /** True if the Pokemon has fainted. */

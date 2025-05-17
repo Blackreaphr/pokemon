@@ -15,6 +15,7 @@ export class BattleState {
   weather: WeatherName = WeatherName.Clear
   terrain: TerrainName = TerrainName.None
 
+
   constructor(party1: Pokemon[] = [], party2: Pokemon[] = []) {
     this.party1 = party1
     this.party2 = party2
