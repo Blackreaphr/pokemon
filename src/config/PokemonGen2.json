@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    "Chikorita",
+    "Bayleef",
+    "Meganium",
+    "Cyndaquil",
+    "Quilava",
+    "Typhlosion",
+    "Totodile",
+    "Croconaw",
+    "Feraligatr",
+    "Sentret",
+    "Furret",
+    "Hoothoot",
+    "Noctowl",
+    "Ledyba",
+    "Ledian",
+    "Spinarak",
+    "Ariados",
+    "Crobat",
+    "Chinchou",
+    "Lanturn"
+  ]
+}

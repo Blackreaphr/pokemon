@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    "Rowlet",
+    "Dartrix",
+    "Decidueye",
+    "Litten",
+    "Torracat",
+    "Incineroar",
+    "Popplio",
+    "Brionne",
+    "Primarina",
+    "Pikipek",
+    "Trumbeak",
+    "Toucannon",
+    "Yungoos",
+    "Gumshoos",
+    "Grubbin",
+    "Charjabug",
+    "Vikavolt",
+    "Crabrawler",
+    "Crabominable",
+    "Oricorio"
+  ]
+}

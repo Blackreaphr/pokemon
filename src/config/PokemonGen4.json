@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    "Turtwig",
+    "Grotle",
+    "Torterra",
+    "Chimchar",
+    "Monferno",
+    "Infernape",
+    "Piplup",
+    "Prinplup",
+    "Empoleon",
+    "Starly",
+    "Staravia",
+    "Staraptor",
+    "Bidoof",
+    "Bibarel",
+    "Kricketot",
+    "Kricketune",
+    "Shinx",
+    "Luxio",
+    "Luxray",
+    "Budew"
+  ]
+}

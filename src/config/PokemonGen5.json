@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    "Victini",
+    "Snivy",
+    "Servine",
+    "Serperior",
+    "Tepig",
+    "Pignite",
+    "Emboar",
+    "Oshawott",
+    "Dewott",
+    "Samurott",
+    "Patrat",
+    "Watchog",
+    "Lillipup",
+    "Herdier",
+    "Stoutland",
+    "Purrloin",
+    "Liepard",
+    "Pansage",
+    "Simisage",
+    "Pansear"
+  ]
+}
