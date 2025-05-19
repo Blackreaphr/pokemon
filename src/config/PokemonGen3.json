@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    "Treecko",
+    "Grovyle",
+    "Sceptile",
+    "Torchic",
+    "Combusken",
+    "Blaziken",
+    "Mudkip",
+    "Marshtomp",
+    "Swampert",
+    "Poochyena",
+    "Mightyena",
+    "Zigzagoon",
+    "Linoone",
+    "Wurmple",
+    "Silcoon",
+    "Beautifly",
+    "Cascoon",
+    "Dustox",
+    "Lotad",
+    "Lombre"
+  ]
+}

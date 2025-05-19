@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "pokemon": [
+    "Chespin",
+    "Quilladin",
+    "Chesnaught",
+    "Fennekin",
+    "Braixen",
+    "Delphox",
+    "Froakie",
+    "Frogadier",
+    "Greninja",
+    "Bunnelby",
+    "Diggersby",
+    "Fletchling",
+    "Fletchinder",
+    "Talonflame",
+    "Scatterbug",
+    "Spewpa",
+    "Vivillon",
+    "Litleo",
+    "Pyroar",
+    "Flabebe"
+  ]
+}
