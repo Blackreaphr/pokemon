@@ -18,7 +18,15 @@
       "abilities": [
         "Overgrow"
       ],
-      "weight": 6.9
+      "weight": 6.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Ivysaur",
@@ -37,7 +45,15 @@
       "abilities": [
         "Overgrow"
       ],
-      "weight": 13.0
+      "weight": 13.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Venusaur",
@@ -56,7 +72,15 @@
       "abilities": [
         "Overgrow"
       ],
-      "weight": 100.0
+      "weight": 100.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Charmander",
@@ -74,7 +98,15 @@
       "abilities": [
         "Blaze"
       ],
-      "weight": 8.5
+      "weight": 8.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Charmeleon",
@@ -92,7 +124,15 @@
       "abilities": [
         "Blaze"
       ],
-      "weight": 19.0
+      "weight": 19.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Charizard",
@@ -111,7 +151,15 @@
       "abilities": [
         "Blaze"
       ],
-      "weight": 90.5
+      "weight": 90.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Squirtle",
@@ -129,7 +177,15 @@
       "abilities": [
         "Torrent"
       ],
-      "weight": 9.0
+      "weight": 9.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Wartortle",
@@ -147,7 +203,15 @@
       "abilities": [
         "Torrent"
       ],
-      "weight": 22.5
+      "weight": 22.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Blastoise",
@@ -165,7 +229,15 @@
       "abilities": [
         "Torrent"
       ],
-      "weight": 85.5
+      "weight": 85.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Caterpie",
@@ -183,7 +255,15 @@
       "abilities": [
         "Shield Dust"
       ],
-      "weight": 2.9
+      "weight": 2.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Metapod",
@@ -201,7 +281,15 @@
       "abilities": [
         "Shed Skin"
       ],
-      "weight": 9.9
+      "weight": 9.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Butterfree",
@@ -220,7 +308,15 @@
       "abilities": [
         "Compound Eyes"
       ],
-      "weight": 32.0
+      "weight": 32.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Weedle",
@@ -239,7 +335,15 @@
       "abilities": [
         "Shield Dust"
       ],
-      "weight": 3.2
+      "weight": 3.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Kakuna",
@@ -258,7 +362,15 @@
       "abilities": [
         "Shed Skin"
       ],
-      "weight": 10.0
+      "weight": 10.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Beedrill",
@@ -277,7 +389,15 @@
       "abilities": [
         "Swarm"
       ],
-      "weight": 29.5
+      "weight": 29.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Pidgey",
@@ -296,7 +416,15 @@
       "abilities": [
         "Keen Eye"
       ],
-      "weight": 1.8
+      "weight": 1.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Pidgeotto",
@@ -315,7 +443,15 @@
       "abilities": [
         "Keen Eye"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Pidgeot",
@@ -334,7 +470,15 @@
       "abilities": [
         "Keen Eye"
       ],
-      "weight": 39.5
+      "weight": 39.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Rattata",
@@ -352,7 +496,15 @@
       "abilities": [
         "Run Away"
       ],
-      "weight": 3.5
+      "weight": 3.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Raticate",
@@ -370,7 +522,15 @@
       "abilities": [
         "Run Away"
       ],
-      "weight": 18.5
+      "weight": 18.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Spearow",
@@ -389,7 +549,15 @@
       "abilities": [
         "Keen Eye"
       ],
-      "weight": 2.0
+      "weight": 2.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Fearow",
@@ -408,7 +576,15 @@
       "abilities": [
         "Keen Eye"
       ],
-      "weight": 38.0
+      "weight": 38.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Ekans",
@@ -426,7 +602,15 @@
       "abilities": [
         "Intimidate"
       ],
-      "weight": 6.9
+      "weight": 6.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Arbok",
@@ -444,7 +628,15 @@
       "abilities": [
         "Intimidate"
       ],
-      "weight": 65.0
+      "weight": 65.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Pikachu",
@@ -463,7 +655,15 @@
         "Static",
         "Lightning Rod"
       ],
-      "weight": 6.0
+      "weight": 6.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Raichu",
@@ -482,7 +682,15 @@
         "Static",
         "Lightning Rod"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Sandshrew",
@@ -500,7 +708,15 @@
       "abilities": [
         "Sand Veil"
       ],
-      "weight": 12.0
+      "weight": 12.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Sandslash",
@@ -518,7 +734,15 @@
       "abilities": [
         "Sand Veil"
       ],
-      "weight": 29.5
+      "weight": 29.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "NidoranF",
@@ -536,7 +760,15 @@
       "abilities": [
         "Poison Point"
       ],
-      "weight": 7.0
+      "weight": 7.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Nidorina",
@@ -554,7 +786,15 @@
       "abilities": [
         "Poison Point"
       ],
-      "weight": 20.0
+      "weight": 20.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Nidoqueen",
@@ -573,7 +813,15 @@
       "abilities": [
         "Poison Point"
       ],
-      "weight": 60.0
+      "weight": 60.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "NidoranM",
@@ -591,7 +839,15 @@
       "abilities": [
         "Poison Point"
       ],
-      "weight": 9.0
+      "weight": 9.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Nidorino",
@@ -609,7 +865,15 @@
       "abilities": [
         "Poison Point"
       ],
-      "weight": 19.5
+      "weight": 19.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Nidoking",
@@ -628,7 +892,15 @@
       "abilities": [
         "Poison Point"
       ],
-      "weight": 62.0
+      "weight": 62.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Clefairy",
@@ -646,7 +918,15 @@
       "abilities": [
         "Cute Charm"
       ],
-      "weight": 7.5
+      "weight": 7.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Clefable",
@@ -664,7 +944,15 @@
       "abilities": [
         "Cute Charm"
       ],
-      "weight": 40.0
+      "weight": 40.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Vulpix",
@@ -682,7 +970,15 @@
       "abilities": [
         "Flash Fire"
       ],
-      "weight": 9.9
+      "weight": 9.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Ninetales",
@@ -700,7 +996,15 @@
       "abilities": [
         "Flash Fire"
       ],
-      "weight": 19.9
+      "weight": 19.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Jigglypuff",
@@ -719,7 +1023,15 @@
       "abilities": [
         "Cute Charm"
       ],
-      "weight": 5.5
+      "weight": 5.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Wigglytuff",
@@ -738,7 +1050,15 @@
       "abilities": [
         "Cute Charm"
       ],
-      "weight": 12.0
+      "weight": 12.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Zubat",
@@ -757,7 +1077,15 @@
       "abilities": [
         "Inner Focus"
       ],
-      "weight": 7.5
+      "weight": 7.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Golbat",
@@ -776,7 +1104,15 @@
       "abilities": [
         "Inner Focus"
       ],
-      "weight": 55.0
+      "weight": 55.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Oddish",
@@ -795,7 +1131,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 5.4
+      "weight": 5.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Gloom",
@@ -814,7 +1158,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 8.6
+      "weight": 8.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Vileplume",
@@ -833,7 +1185,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 18.6
+      "weight": 18.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Paras",
@@ -852,7 +1212,15 @@
       "abilities": [
         "Effect Spore"
       ],
-      "weight": 5.4
+      "weight": 5.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Parasect",
@@ -871,7 +1239,15 @@
       "abilities": [
         "Effect Spore"
       ],
-      "weight": 29.5
+      "weight": 29.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Venonat",
@@ -890,7 +1266,15 @@
       "abilities": [
         "Compound Eyes"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Venomoth",
@@ -909,7 +1293,15 @@
       "abilities": [
         "Shield Dust"
       ],
-      "weight": 12.5
+      "weight": 12.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Diglett",
@@ -927,7 +1319,15 @@
       "abilities": [
         "Sand Veil"
       ],
-      "weight": 0.8
+      "weight": 0.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Dugtrio",
@@ -946,7 +1346,15 @@
         "Sand Veil",
         "Arena Trap"
       ],
-      "weight": 33.3
+      "weight": 33.3,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Meowth",
@@ -965,7 +1373,15 @@
         "Pickup",
         "Technician"
       ],
-      "weight": 4.2
+      "weight": 4.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Persian",
@@ -984,7 +1400,15 @@
         "Limber",
         "Technician"
       ],
-      "weight": 32.0
+      "weight": 32.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Psyduck",
@@ -1003,7 +1427,15 @@
         "Damp",
         "Cloud Nine"
       ],
-      "weight": 19.6
+      "weight": 19.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Golduck",
@@ -1022,7 +1454,15 @@
         "Damp",
         "Cloud Nine"
       ],
-      "weight": 76.6
+      "weight": 76.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Mankey",
@@ -1041,7 +1481,15 @@
         "Vital Spirit",
         "Anger Point"
       ],
-      "weight": 28.0
+      "weight": 28.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Primeape",
@@ -1060,7 +1508,15 @@
         "Vital Spirit",
         "Anger Point"
       ],
-      "weight": 32.0
+      "weight": 32.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Growlithe",
@@ -1079,7 +1535,15 @@
         "Intimidate",
         "Flash Fire"
       ],
-      "weight": 19.0
+      "weight": 19.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Arcanine",
@@ -1098,7 +1562,15 @@
         "Intimidate",
         "Flash Fire"
       ],
-      "weight": 155.0
+      "weight": 155.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Poliwag",
@@ -1117,7 +1589,15 @@
         "Water Absorb",
         "Damp"
       ],
-      "weight": 12.4
+      "weight": 12.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Poliwhirl",
@@ -1136,7 +1616,15 @@
         "Water Absorb",
         "Damp"
       ],
-      "weight": 20.0
+      "weight": 20.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Poliwrath",
@@ -1156,7 +1644,15 @@
         "Water Absorb",
         "Damp"
       ],
-      "weight": 54.0
+      "weight": 54.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Abra",
@@ -1175,7 +1671,15 @@
         "Synchronize",
         "Inner Focus"
       ],
-      "weight": 19.5
+      "weight": 19.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Kadabra",
@@ -1194,7 +1698,15 @@
         "Synchronize",
         "Inner Focus"
       ],
-      "weight": 56.5
+      "weight": 56.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Alakazam",
@@ -1213,7 +1725,15 @@
         "Synchronize",
         "Inner Focus"
       ],
-      "weight": 48.0
+      "weight": 48.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Machop",
@@ -1232,7 +1752,15 @@
         "Guts",
         "No Guard"
       ],
-      "weight": 19.5
+      "weight": 19.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Machoke",
@@ -1251,7 +1779,15 @@
         "Guts",
         "No Guard"
       ],
-      "weight": 70.5
+      "weight": 70.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Machamp",
@@ -1270,7 +1806,15 @@
         "Guts",
         "No Guard"
       ],
-      "weight": 130.0
+      "weight": 130.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Bellsprout",
@@ -1289,7 +1833,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 4.0
+      "weight": 4.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Weepinbell",
@@ -1308,7 +1860,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 6.4
+      "weight": 6.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Victreebel",
@@ -1327,7 +1887,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 15.5
+      "weight": 15.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Tentacool",
@@ -1347,7 +1915,15 @@
         "Clear Body",
         "Liquid Ooze"
       ],
-      "weight": 45.5
+      "weight": 45.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Tentacruel",
@@ -1367,7 +1943,15 @@
         "Clear Body",
         "Liquid Ooze"
       ],
-      "weight": 55.0
+      "weight": 55.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Geodude",
@@ -1387,7 +1971,15 @@
         "Rock Head",
         "Sturdy"
       ],
-      "weight": 20.0
+      "weight": 20.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Graveler",
@@ -1407,7 +1999,15 @@
         "Rock Head",
         "Sturdy"
       ],
-      "weight": 105.0
+      "weight": 105.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Golem",
@@ -1427,7 +2027,15 @@
         "Rock Head",
         "Sturdy"
       ],
-      "weight": 300.0
+      "weight": 300.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Ponyta",
@@ -1446,7 +2054,15 @@
         "Run Away",
         "Flash Fire"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Rapidash",
@@ -1465,7 +2081,15 @@
         "Run Away",
         "Flash Fire"
       ],
-      "weight": 95.0
+      "weight": 95.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Slowpoke",
@@ -1485,7 +2109,15 @@
         "Oblivious",
         "Own Tempo"
       ],
-      "weight": 36.0
+      "weight": 36.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Slowbro",
@@ -1505,7 +2137,15 @@
         "Oblivious",
         "Own Tempo"
       ],
-      "weight": 78.5
+      "weight": 78.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Magnemite",
@@ -1525,7 +2165,15 @@
         "Magnet Pull",
         "Sturdy"
       ],
-      "weight": 6.0
+      "weight": 6.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Magneton",
@@ -1545,7 +2193,15 @@
         "Magnet Pull",
         "Sturdy"
       ],
-      "weight": 60.0
+      "weight": 60.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Farfetch'd",
@@ -1565,7 +2221,15 @@
         "Keen Eye",
         "Inner Focus"
       ],
-      "weight": 15.0
+      "weight": 15.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Doduo",
@@ -1585,7 +2249,15 @@
         "Run Away",
         "Early Bird"
       ],
-      "weight": 39.2
+      "weight": 39.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Dodrio",
@@ -1605,7 +2277,15 @@
         "Run Away",
         "Early Bird"
       ],
-      "weight": 85.2
+      "weight": 85.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Seel",
@@ -1624,7 +2304,15 @@
         "Thick Fat",
         "Hydration"
       ],
-      "weight": 90.0
+      "weight": 90.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Dewgong",
@@ -1644,7 +2332,15 @@
         "Thick Fat",
         "Hydration"
       ],
-      "weight": 120.0
+      "weight": 120.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Grimer",
@@ -1663,7 +2359,15 @@
         "Stench",
         "Sticky Hold"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Muk",
@@ -1682,7 +2386,15 @@
         "Stench",
         "Sticky Hold"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Shellder",
@@ -1701,7 +2413,15 @@
         "Shell Armor",
         "Skill Link"
       ],
-      "weight": 4.0
+      "weight": 4.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Cloyster",
@@ -1721,7 +2441,15 @@
         "Shell Armor",
         "Skill Link"
       ],
-      "weight": 132.5
+      "weight": 132.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Gastly",
@@ -1740,7 +2468,15 @@
       "abilities": [
         "Levitate"
       ],
-      "weight": 0.1
+      "weight": 0.1,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Haunter",
@@ -1759,7 +2495,15 @@
       "abilities": [
         "Levitate"
       ],
-      "weight": 0.1
+      "weight": 0.1,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Gengar",
@@ -1778,7 +2522,15 @@
       "abilities": [
         "Cursed Body"
       ],
-      "weight": 40.5
+      "weight": 40.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Onix",
@@ -1798,7 +2550,15 @@
         "Rock Head",
         "Sturdy"
       ],
-      "weight": 210.0
+      "weight": 210.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Drowzee",
@@ -1817,7 +2577,15 @@
         "Insomnia",
         "Forewarn"
       ],
-      "weight": 32.4
+      "weight": 32.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Hypno",
@@ -1836,7 +2604,15 @@
         "Insomnia",
         "Forewarn"
       ],
-      "weight": 75.6
+      "weight": 75.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Krabby",
@@ -1855,7 +2631,15 @@
         "Hyper Cutter",
         "Shell Armor"
       ],
-      "weight": 6.5
+      "weight": 6.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Kingler",
@@ -1874,7 +2658,15 @@
         "Hyper Cutter",
         "Shell Armor"
       ],
-      "weight": 60.0
+      "weight": 60.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Voltorb",
@@ -1893,7 +2685,15 @@
         "Soundproof",
         "Static"
       ],
-      "weight": 10.4
+      "weight": 10.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Electrode",
@@ -1912,7 +2712,15 @@
         "Soundproof",
         "Static"
       ],
-      "weight": 66.6
+      "weight": 66.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Exeggcute",
@@ -1931,7 +2739,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 2.5
+      "weight": 2.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Exeggutor",
@@ -1950,7 +2766,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 120.0
+      "weight": 120.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Cubone",
@@ -1969,7 +2793,15 @@
         "Rock Head",
         "Lightning Rod"
       ],
-      "weight": 6.5
+      "weight": 6.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Marowak",
@@ -1988,7 +2820,15 @@
         "Rock Head",
         "Lightning Rod"
       ],
-      "weight": 45.0
+      "weight": 45.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Hitmonlee",
@@ -2006,7 +2846,15 @@
       "abilities": [
         "Limber"
       ],
-      "weight": 49.8
+      "weight": 49.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Hitmonchan",
@@ -2024,7 +2872,15 @@
       "abilities": [
         "Keen Eye"
       ],
-      "weight": 50.2
+      "weight": 50.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Lickitung",
@@ -2043,7 +2899,15 @@
         "Own Tempo",
         "Oblivious"
       ],
-      "weight": 65.5
+      "weight": 65.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Koffing",
@@ -2061,7 +2925,15 @@
       "abilities": [
         "Levitate"
       ],
-      "weight": 1.0
+      "weight": 1.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Weezing",
@@ -2079,7 +2951,15 @@
       "abilities": [
         "Levitate"
       ],
-      "weight": 9.5
+      "weight": 9.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Rhyhorn",
@@ -2099,7 +2979,15 @@
         "Lightning Rod",
         "Rock Head"
       ],
-      "weight": 115.0
+      "weight": 115.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Rhydon",
@@ -2119,7 +3007,15 @@
         "Lightning Rod",
         "Rock Head"
       ],
-      "weight": 120.0
+      "weight": 120.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Chansey",
@@ -2138,7 +3034,15 @@
         "Natural Cure",
         "Serene Grace"
       ],
-      "weight": 34.6
+      "weight": 34.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Tangela",
@@ -2156,7 +3060,15 @@
       "abilities": [
         "Chlorophyll"
       ],
-      "weight": 35.0
+      "weight": 35.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Kangaskhan",
@@ -2174,7 +3086,15 @@
       "abilities": [
         "Early Bird"
       ],
-      "weight": 80.0
+      "weight": 80.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Horsea",
@@ -2192,7 +3112,15 @@
       "abilities": [
         "Swift Swim"
       ],
-      "weight": 8.0
+      "weight": 8.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Seadra",
@@ -2211,7 +3139,15 @@
         "Poison Point",
         "Sniper"
       ],
-      "weight": 25.0
+      "weight": 25.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Goldeen",
@@ -2230,7 +3166,15 @@
         "Swift Swim",
         "Water Veil"
       ],
-      "weight": 15.0
+      "weight": 15.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Seaking",
@@ -2249,7 +3193,15 @@
         "Swift Swim",
         "Water Veil"
       ],
-      "weight": 39.0
+      "weight": 39.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Staryu",
@@ -2268,7 +3220,15 @@
         "Illuminate",
         "Natural Cure"
       ],
-      "weight": 34.5
+      "weight": 34.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Starmie",
@@ -2288,7 +3248,15 @@
         "Illuminate",
         "Natural Cure"
       ],
-      "weight": 80.0
+      "weight": 80.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Mr. Mime",
@@ -2308,7 +3276,15 @@
         "Soundproof",
         "Filter"
       ],
-      "weight": 54.5
+      "weight": 54.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Scyther",
@@ -2328,7 +3304,15 @@
         "Swarm",
         "Technician"
       ],
-      "weight": 56.0
+      "weight": 56.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Jynx",
@@ -2348,7 +3332,15 @@
         "Oblivious",
         "Forewarn"
       ],
-      "weight": 40.6
+      "weight": 40.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Electabuzz",
@@ -2366,7 +3358,15 @@
       "abilities": [
         "Static"
       ],
-      "weight": 30.0
+      "weight": 30.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Magmar",
@@ -2384,7 +3384,15 @@
       "abilities": [
         "Flame Body"
       ],
-      "weight": 44.5
+      "weight": 44.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Pinsir",
@@ -2403,7 +3411,15 @@
         "Hyper Cutter",
         "Mold Breaker"
       ],
-      "weight": 55.0
+      "weight": 55.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Tauros",
@@ -2422,7 +3438,15 @@
         "Intimidate",
         "Anger Point"
       ],
-      "weight": 88.4
+      "weight": 88.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Magikarp",
@@ -2440,7 +3464,15 @@
       "abilities": [
         "Swift Swim"
       ],
-      "weight": 10.0
+      "weight": 10.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Gyarados",
@@ -2460,7 +3492,15 @@
         "Intimidate",
         "Moxie"
       ],
-      "weight": 235.0
+      "weight": 235.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Lapras",
@@ -2480,7 +3520,15 @@
         "Water Absorb",
         "Shell Armor"
       ],
-      "weight": 220.0
+      "weight": 220.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Ditto",
@@ -2498,7 +3546,15 @@
       "abilities": [
         "Limber"
       ],
-      "weight": 4.0
+      "weight": 4.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Eevee",
@@ -2517,7 +3573,15 @@
         "Run Away",
         "Adaptability"
       ],
-      "weight": 6.5
+      "weight": 6.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Vaporeon",
@@ -2535,7 +3599,15 @@
       "abilities": [
         "Water Absorb"
       ],
-      "weight": 29.0
+      "weight": 29.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Jolteon",
@@ -2553,7 +3625,15 @@
       "abilities": [
         "Volt Absorb"
       ],
-      "weight": 24.5
+      "weight": 24.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Flareon",
@@ -2571,7 +3651,15 @@
       "abilities": [
         "Flash Fire"
       ],
-      "weight": 25.0
+      "weight": 25.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Porygon",
@@ -2590,7 +3678,15 @@
         "Trace",
         "Download"
       ],
-      "weight": 36.5
+      "weight": 36.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Omanyte",
@@ -2610,7 +3706,15 @@
         "Swift Swim",
         "Shell Armor"
       ],
-      "weight": 7.5
+      "weight": 7.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Omastar",
@@ -2630,7 +3734,15 @@
         "Swift Swim",
         "Shell Armor"
       ],
-      "weight": 35.0
+      "weight": 35.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Kabuto",
@@ -2650,7 +3762,15 @@
         "Swift Swim",
         "Battle Armor"
       ],
-      "weight": 11.5
+      "weight": 11.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Kabutops",
@@ -2670,7 +3790,15 @@
         "Swift Swim",
         "Battle Armor"
       ],
-      "weight": 40.5
+      "weight": 40.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Aerodactyl",
@@ -2690,7 +3818,15 @@
         "Rock Head",
         "Pressure"
       ],
-      "weight": 59.0
+      "weight": 59.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Snorlax",
@@ -2709,7 +3845,15 @@
         "Immunity",
         "Thick Fat"
       ],
-      "weight": 460.0
+      "weight": 460.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Articuno",
@@ -2728,7 +3872,15 @@
       "abilities": [
         "Pressure"
       ],
-      "weight": 55.4
+      "weight": 55.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Zapdos",
@@ -2747,7 +3899,15 @@
       "abilities": [
         "Pressure"
       ],
-      "weight": 52.6
+      "weight": 52.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Moltres",
@@ -2766,7 +3926,15 @@
       "abilities": [
         "Pressure"
       ],
-      "weight": 60.0
+      "weight": 60.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Dratini",
@@ -2784,7 +3952,15 @@
       "abilities": [
         "Shed Skin"
       ],
-      "weight": 3.3
+      "weight": 3.3,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Dragonair",
@@ -2802,7 +3978,15 @@
       "abilities": [
         "Shed Skin"
       ],
-      "weight": 16.5
+      "weight": 16.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Dragonite",
@@ -2821,7 +4005,15 @@
       "abilities": [
         "Inner Focus"
       ],
-      "weight": 210.0
+      "weight": 210.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Mewtwo",
@@ -2839,7 +4031,15 @@
       "abilities": [
         "Pressure"
       ],
-      "weight": 122.0
+      "weight": 122.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     },
     {
       "name": "Mew",
@@ -2857,7 +4057,15 @@
       "abilities": [
         "Synchronize"
       ],
-      "weight": 4.0
+      "weight": 4.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
     }
   ]
 }
