@@ -1,25 +1,1328 @@
 {
   "version": "1.0.0",
   "pokemon": [
-    "Chikorita",
-    "Bayleef",
-    "Meganium",
-    "Cyndaquil",
-    "Quilava",
-    "Typhlosion",
-    "Totodile",
-    "Croconaw",
-    "Feraligatr",
-    "Sentret",
-    "Furret",
-    "Hoothoot",
-    "Noctowl",
-    "Ledyba",
-    "Ledian",
-    "Spinarak",
-    "Ariados",
-    "Crobat",
-    "Chinchou",
-    "Lanturn"
+    {
+      "name": "Chikorita",
+      "types": [
+        "Grass"
+      ],
+      "stats": {
+        "hp": 45,
+        "atk": 49,
+        "def": 65,
+        "spa": 49,
+        "spd": 65,
+        "spe": 45
+      },
+      "abilities": [
+        "Overgrow"
+      ],
+      "weight": 6.4,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Bayleef",
+      "types": [
+        "Grass"
+      ],
+      "stats": {
+        "hp": 60,
+        "atk": 62,
+        "def": 80,
+        "spa": 63,
+        "spd": 80,
+        "spe": 60
+      },
+      "abilities": [
+        "Overgrow"
+      ],
+      "weight": 15.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Meganium",
+      "types": [
+        "Grass"
+      ],
+      "stats": {
+        "hp": 80,
+        "atk": 82,
+        "def": 100,
+        "spa": 83,
+        "spd": 100,
+        "spe": 80
+      },
+      "abilities": [
+        "Overgrow"
+      ],
+      "weight": 100.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Cyndaquil",
+      "types": [
+        "Fire"
+      ],
+      "stats": {
+        "hp": 39,
+        "atk": 52,
+        "def": 43,
+        "spa": 60,
+        "spd": 50,
+        "spe": 65
+      },
+      "abilities": [
+        "Blaze"
+      ],
+      "weight": 7.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Quilava",
+      "types": [
+        "Fire"
+      ],
+      "stats": {
+        "hp": 58,
+        "atk": 64,
+        "def": 58,
+        "spa": 80,
+        "spd": 65,
+        "spe": 80
+      },
+      "abilities": [
+        "Blaze"
+      ],
+      "weight": 19.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Typhlosion",
+      "types": [
+        "Fire"
+      ],
+      "stats": {
+        "hp": 78,
+        "atk": 84,
+        "def": 78,
+        "spa": 109,
+        "spd": 85,
+        "spe": 100
+      },
+      "abilities": [
+        "Blaze"
+      ],
+      "weight": 79.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Totodile",
+      "types": [
+        "Water"
+      ],
+      "stats": {
+        "hp": 50,
+        "atk": 65,
+        "def": 64,
+        "spa": 44,
+        "spd": 48,
+        "spe": 43
+      },
+      "abilities": [
+        "Torrent"
+      ],
+      "weight": 9.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Croconaw",
+      "types": [
+        "Water"
+      ],
+      "stats": {
+        "hp": 65,
+        "atk": 80,
+        "def": 80,
+        "spa": 59,
+        "spd": 63,
+        "spe": 58
+      },
+      "abilities": [
+        "Torrent"
+      ],
+      "weight": 25.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Feraligatr",
+      "types": [
+        "Water"
+      ],
+      "stats": {
+        "hp": 85,
+        "atk": 105,
+        "def": 100,
+        "spa": 79,
+        "spd": 83,
+        "spe": 78
+      },
+      "abilities": [
+        "Torrent"
+      ],
+      "weight": 88.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Sentret",
+      "types": [
+        "Normal"
+      ],
+      "stats": {
+        "hp": 35,
+        "atk": 46,
+        "def": 34,
+        "spa": 35,
+        "spd": 45,
+        "spe": 20
+      },
+      "abilities": [
+        "Run Away"
+      ],
+      "weight": 6.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Furret",
+      "types": [
+        "Normal"
+      ],
+      "stats": {
+        "hp": 85,
+        "atk": 76,
+        "def": 64,
+        "spa": 45,
+        "spd": 55,
+        "spe": 90
+      },
+      "abilities": [
+        "Run Away"
+      ],
+      "weight": 32.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Hoothoot",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "atk": 30,
+        "def": 30,
+        "spa": 36,
+        "spd": 56,
+        "spe": 50
+      },
+      "abilities": [
+        "Insomnia"
+      ],
+      "weight": 21.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Noctowl",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 100,
+        "atk": 50,
+        "def": 50,
+        "spa": 76,
+        "spd": 96,
+        "spe": 70
+      },
+      "abilities": [
+        "Insomnia"
+      ],
+      "weight": 40.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Ledyba",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 20,
+        "def": 30,
+        "spa": 40,
+        "spd": 80,
+        "spe": 55
+      },
+      "abilities": [
+        "Swarm"
+      ],
+      "weight": 10.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Ledian",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 35,
+        "def": 50,
+        "spa": 55,
+        "spd": 110,
+        "spe": 85
+      },
+      "abilities": [
+        "Swarm"
+      ],
+      "weight": 35.6,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Spinarak",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 60,
+        "def": 40,
+        "spa": 40,
+        "spd": 40,
+        "spe": 30
+      },
+      "abilities": [
+        "Swarm"
+      ],
+      "weight": 8.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Ariados",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "stats": {
+        "hp": 70,
+        "atk": 90,
+        "def": 70,
+        "spa": 60,
+        "spd": 70,
+        "spe": 40
+      },
+      "abilities": [
+        "Swarm"
+      ],
+      "weight": 33.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Crobat",
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 85,
+        "atk": 90,
+        "def": 80,
+        "spa": 70,
+        "spd": 80,
+        "spe": 130
+      },
+      "abilities": [
+        "Inner Focus"
+      ],
+      "weight": 75.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Chinchou",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "stats": {
+        "hp": 75,
+        "atk": 38,
+        "def": 38,
+        "spa": 56,
+        "spd": 56,
+        "spe": 67
+      },
+      "abilities": [
+        "Volt Absorb"
+      ],
+      "weight": 12.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Lanturn",
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "stats": {
+        "hp": 125,
+        "atk": 58,
+        "def": 58,
+        "spa": 76,
+        "spd": 76,
+        "spe": 67
+      },
+      "abilities": [
+        "Volt Absorb"
+      ],
+      "weight": 22.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Pichu",
+      "types": [
+        "Electric"
+      ],
+      "stats": {
+        "hp": 20,
+        "atk": 40,
+        "def": 15,
+        "spa": 35,
+        "spd": 35,
+        "spe": 60
+      },
+      "abilities": [
+        "Static"
+      ],
+      "weight": 2.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Cleffa",
+      "types": [
+        "Fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "atk": 25,
+        "def": 28,
+        "spa": 45,
+        "spd": 55,
+        "spe": 15
+      },
+      "abilities": [
+        "Cute Charm"
+      ],
+      "weight": 3.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Igglybuff",
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "stats": {
+        "hp": 90,
+        "atk": 30,
+        "def": 15,
+        "spa": 40,
+        "spd": 20,
+        "spe": 15
+      },
+      "abilities": [
+        "Cute Charm"
+      ],
+      "weight": 1.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Togepi",
+      "types": [
+        "Fairy"
+      ],
+      "stats": {
+        "hp": 35,
+        "atk": 20,
+        "def": 65,
+        "spa": 40,
+        "spd": 65,
+        "spe": 20
+      },
+      "abilities": [
+        "Hustle"
+      ],
+      "weight": 1.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Togetic",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 40,
+        "def": 85,
+        "spa": 80,
+        "spd": 105,
+        "spe": 40
+      },
+      "abilities": [
+        "Hustle"
+      ],
+      "weight": 3.2,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Natu",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 40,
+        "atk": 50,
+        "def": 45,
+        "spa": 70,
+        "spd": 45,
+        "spe": 70
+      },
+      "abilities": [
+        "Synchronize"
+      ],
+      "weight": 2.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Xatu",
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 65,
+        "atk": 75,
+        "def": 70,
+        "spa": 95,
+        "spd": 70,
+        "spe": 95
+      },
+      "abilities": [
+        "Synchronize"
+      ],
+      "weight": 15.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Mareep",
+      "types": [
+        "Electric"
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 40,
+        "def": 40,
+        "spa": 65,
+        "spd": 45,
+        "spe": 35
+      },
+      "abilities": [
+        "Static"
+      ],
+      "weight": 7.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Flaaffy",
+      "types": [
+        "Electric"
+      ],
+      "stats": {
+        "hp": 70,
+        "atk": 55,
+        "def": 55,
+        "spa": 80,
+        "spd": 60,
+        "spe": 45
+      },
+      "abilities": [
+        "Static"
+      ],
+      "weight": 13.3,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Ampharos",
+      "types": [
+        "Electric"
+      ],
+      "stats": {
+        "hp": 90,
+        "atk": 75,
+        "def": 85,
+        "spa": 115,
+        "spd": 90,
+        "spe": 55
+      },
+      "abilities": [
+        "Static"
+      ],
+      "weight": 61.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Bellossom",
+      "types": [
+        "Grass"
+      ],
+      "stats": {
+        "hp": 75,
+        "atk": 80,
+        "def": 95,
+        "spa": 90,
+        "spd": 100,
+        "spe": 50
+      },
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "weight": 5.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Marill",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "stats": {
+        "hp": 70,
+        "atk": 20,
+        "def": 50,
+        "spa": 20,
+        "spd": 50,
+        "spe": 40
+      },
+      "abilities": [
+        "Thick Fat"
+      ],
+      "weight": 8.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Azumarill",
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "stats": {
+        "hp": 100,
+        "atk": 50,
+        "def": 80,
+        "spa": 60,
+        "spd": 80,
+        "spe": 50
+      },
+      "abilities": [
+        "Thick Fat"
+      ],
+      "weight": 28.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Sudowoodo",
+      "types": [
+        "Rock"
+      ],
+      "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 115,
+        "spa": 30,
+        "spd": 65,
+        "spe": 30
+      },
+      "abilities": [
+        "Sturdy"
+      ],
+      "weight": 38.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Politoed",
+      "types": [
+        "Water"
+      ],
+      "stats": {
+        "hp": 90,
+        "atk": 75,
+        "def": 75,
+        "spa": 90,
+        "spd": 100,
+        "spe": 70
+      },
+      "abilities": [
+        "Water Absorb"
+      ],
+      "weight": 33.9,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Hoppip",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 35,
+        "atk": 35,
+        "def": 40,
+        "spa": 35,
+        "spd": 55,
+        "spe": 50
+      },
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "weight": 0.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Skiploom",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 45,
+        "def": 50,
+        "spa": 45,
+        "spd": 65,
+        "spe": 80
+      },
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "weight": 1.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Jumpluff",
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "atk": 55,
+        "def": 70,
+        "spa": 55,
+        "spd": 95,
+        "spe": 110
+      },
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "weight": 3.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Aipom",
+      "types": [
+        "Normal"
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 70,
+        "def": 55,
+        "spa": 40,
+        "spd": 55,
+        "spe": 85
+      },
+      "abilities": [
+        "Run Away"
+      ],
+      "weight": 11.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Sunkern",
+      "types": [
+        "Grass"
+      ],
+      "stats": {
+        "hp": 30,
+        "atk": 30,
+        "def": 30,
+        "spa": 30,
+        "spd": 30,
+        "spe": 30
+      },
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "weight": 1.8,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Sunflora",
+      "types": [
+        "Grass"
+      ],
+      "stats": {
+        "hp": 75,
+        "atk": 75,
+        "def": 55,
+        "spa": 105,
+        "spd": 85,
+        "spe": 30
+      },
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "weight": 8.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Yanma",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 65,
+        "atk": 65,
+        "def": 45,
+        "spa": 75,
+        "spd": 45,
+        "spe": 95
+      },
+      "abilities": [
+        "Speed Boost"
+      ],
+      "weight": 38.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Wooper",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "stats": {
+        "hp": 55,
+        "atk": 45,
+        "def": 45,
+        "spa": 25,
+        "spd": 25,
+        "spe": 15
+      },
+      "abilities": [
+        "Water Absorb"
+      ],
+      "weight": 8.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Quagsire",
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "stats": {
+        "hp": 95,
+        "atk": 85,
+        "def": 85,
+        "spa": 65,
+        "spd": 65,
+        "spe": 35
+      },
+      "abilities": [
+        "Water Absorb"
+      ],
+      "weight": 75.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Espeon",
+      "types": [
+        "Psychic"
+      ],
+      "stats": {
+        "hp": 65,
+        "atk": 65,
+        "def": 60,
+        "spa": 130,
+        "spd": 95,
+        "spe": 110
+      },
+      "abilities": [
+        "Synchronize"
+      ],
+      "weight": 26.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Umbreon",
+      "types": [
+        "Dark"
+      ],
+      "stats": {
+        "hp": 95,
+        "atk": 65,
+        "def": 110,
+        "spa": 60,
+        "spd": 130,
+        "spe": 65
+      },
+      "abilities": [
+        "Synchronize"
+      ],
+      "weight": 27.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Murkrow",
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "atk": 85,
+        "def": 42,
+        "spa": 85,
+        "spd": 42,
+        "spe": 91
+      },
+      "abilities": [
+        "Insomnia"
+      ],
+      "weight": 2.1,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Slowking",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "stats": {
+        "hp": 95,
+        "atk": 75,
+        "def": 80,
+        "spa": 100,
+        "spd": 110,
+        "spe": 30
+      },
+      "abilities": [
+        "Oblivious"
+      ],
+      "weight": 79.5,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Misdreavus",
+      "types": [
+        "Ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "atk": 60,
+        "def": 60,
+        "spa": 85,
+        "spd": 85,
+        "spe": 85
+      },
+      "abilities": [
+        "Levitate"
+      ],
+      "weight": 1.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    },
+    {
+      "name": "Unown",
+      "types": [
+        "Psychic"
+      ],
+      "stats": {
+        "hp": 48,
+        "atk": 72,
+        "def": 48,
+        "spa": 72,
+        "spd": 48,
+        "spe": 48
+      },
+      "abilities": [
+        "Levitate"
+      ],
+      "weight": 5.0,
+      "evs": {
+        "hp": 252,
+        "atk": 0,
+        "def": 128,
+        "spa": 0,
+        "spd": 128,
+        "spe": 0
+      }
+    }
   ]
 }
