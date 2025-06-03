@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "dev:ui": "vite --root src/battle-ui",
     "dev:analytics": "vite --root src/analytics/reporting",
-    "test": "vitest"
+    "test": "vitest run"
   },
   "keywords": [],
   "author": "",
