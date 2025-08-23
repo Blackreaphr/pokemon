@@ -3,7 +3,6 @@
  */
 
 import type { Pokemon } from './Pokemon'
-import { MAX_STAT_STAGE } from './Constants'
 
 export type MoveEffect = (user: Pokemon, target: Pokemon) => void
 

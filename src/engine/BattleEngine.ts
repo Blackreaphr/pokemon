@@ -9,6 +9,8 @@ import type { Pokemon } from './Pokemon'
 import { WEATHERS } from './Weather'
 import { MOVES } from './Moves'
 import { PokemonFactory } from './PokemonFactory'
+import { STATUS_EFFECTS } from './Statuses'
+import { randInt } from './Utils'
 
 export class BattleEngine {
   state: BattleState
@@ -54,6 +56,13 @@ export class BattleEngine {
   }
 
   private executeMove(user: Pokemon, target: Pokemon, move: MoveData): void {
+    const status = user.status && STATUS_EFFECTS[user.status]
+    if (status?.onBeforeMove?.(user)) return
+
+    user.ability?.onBeforeMove?.(user, move)
+
+    if (randInt(1, 100) > move.accuracy) return
+
     let damage = BattleCalculator.calculateDamage(
       user,
       target,
@@ -65,6 +74,8 @@ export class BattleEngine {
       damage = user.ability.modifyDamage(user, move, target, damage)
     }
     target.receiveDamage(damage)
+    move.effect?.(user, target)
+    user.ability?.onAfterMove?.(user, move)
   }
 
   private applyResidualEffects(): void {
@@ -72,6 +83,8 @@ export class BattleEngine {
       if (!mon || mon.isFainted()) continue
       const weatherEffect = WEATHERS[this.state.weather]
       weatherEffect.onResidual?.(mon)
+      const statusEffect = mon.status && STATUS_EFFECTS[mon.status]
+      statusEffect?.onAfterTurn?.(mon)
     }
   }
 }

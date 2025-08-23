@@ -2,6 +2,8 @@
  * Shared interfaces for the battle engine.
  */
 
+import type { Pokemon } from './Pokemon'
+
 export interface Stats {
   hp: number
   attack: number
@@ -18,7 +20,8 @@ export interface MoveData {
   accuracy: number
   pp: number
   priority?: number
-  effect?: (user: any, target: any) => void
+  /** Optional side effect executed after dealing damage. */
+  effect?: (user: Pokemon, target: Pokemon) => void
 }
 
 /** Representation of temporary stat modifiers. */
